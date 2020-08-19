@@ -1,6 +1,6 @@
 /*Ejercicio 2, TP1
- * Realiz· un programa que, siendo num1 y num2 variables enteras con valores 4 y 5,
- * respectivamente, realice la operaciÛn correspondiente y muestre el resultado en pantalla:
+ * Realiz√° un programa que, siendo num1 y num2 variables enteras con valores 4 y 5,
+ * respectivamente, realice la operaci√≥n correspondiente y muestre el resultado en pantalla:
  * a. Suma
  * b. Producto 
 */
