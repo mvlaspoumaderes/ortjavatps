@@ -1,10 +1,10 @@
 /*Ejercicio9, TP1
- * Realiz· un programa que resuelva el siguiente problema:
- * Tres personas aportan diferente capital a una sociedad. Se desea saber quÈ porcentaje del
- * total aportÛ cada una (indicando nombre y porcentaje) y cu·l es el monto del total aportado por las tres.
+ * Realiz√° un programa que resuelva el siguiente problema:
+ * Tres personas aportan diferente capital a una sociedad. Se desea saber qu√© porcentaje del
+ * total aport√≥ cada una (indicando nombre y porcentaje) y cu√°l es el monto del total aportado por las tres.
  * Pedir por pantalla el ingreso del capital aportado por cada una de las personas y luego
  * mostrar lo pedido en el siguiente formato:
- * Nombre: capital aportado: $ Ö , Porcentaje del capital: %.... , Monto total aportado: $ Ö.
+ * Nombre: capital aportado: $ ‚Ä¶ , Porcentaje del capital: %.... , Monto total aportado: $ ‚Ä¶.
  */
 
 package ar.edu.ort.thp.tp1;
