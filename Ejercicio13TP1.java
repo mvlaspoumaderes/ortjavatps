@@ -1,7 +1,7 @@
 /*Ejercicio 13, TP1
  * Un obrero necesita calcular su salario semanal, el cual se obtiene de la siguiente manera:
- * ï Si trabaja 40 horas o menos se le paga $16 por hora (crear una constante para almacenar el 16)
- * ï Si trabaja m·s de 40 horas se le paga $16 por cada una de las primeras 40 horas y $20
+ * ‚Ä¢ Si trabaja 40 horas o menos se le paga $16 por hora (crear una constante para almacenar el 16)
+ * ‚Ä¢ Si trabaja m√°s de 40 horas se le paga $16 por cada una de las primeras 40 horas y $20
  * por cada hora extra. (crear una constante para almacenar el 20)
  * Pedir al usuario que ingrese la cantidad de horas trabajadas en la semana, y mostrar por
  * pantalla el salario correspondiente.
