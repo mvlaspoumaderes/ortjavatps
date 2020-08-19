@@ -1,10 +1,10 @@
 /*Ejercicio 1, TP1
- * Realiz· un programa donde se cree una variable entera llamada num1, que inicialmente
- * valdr· 0. Luego increment· su valor en 2 y mostralo por pantalla. DespuÈs mostr· el
- * resultado de multiplicarlo por sÌ mismo.
+ * Realiz√° un programa donde se cree una variable entera llamada num1, que inicialmente
+ * valdr√° 0. Luego increment√° su valor en 2 y mostralo por pantalla. Despu√©s mostr√° el
+ * resultado de multiplicarlo por s√≠ mismo.
  */
 
-package ar.edu.ort.thp.tp1; //nombre del paquete, que se mantendr· constante en todo el TP1
+package ar.edu.ort.thp.tp1; //nombre del paquete, que se mantendr√° constante en todo el TP1
 
 public class Ejercicio1 {
 
