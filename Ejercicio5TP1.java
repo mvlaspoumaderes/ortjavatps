@@ -1,9 +1,9 @@
 /*Ejercicio 5, TP1
- * Realizá un programa que, dados dos números enteros num1 y num2 cargados desde
- * teclado por el usuario, muestre el resultado de la división del primero por el segundo
- * siguiendo el formato num1 + “ / “ + num2 + “ = “ + resultado.
+ * RealizÃ¡ un programa que, dados dos nÃºmeros enteros num1 y num2 cargados desde
+ * teclado por el usuario, muestre el resultado de la divisiÃ³n del primero por el segundo
+ * siguiendo el formato num1 + â€œ / â€œ + num2 + â€œ = â€œ + resultado.
  * En el caso de que el segundo valor num2 sea cero, mostrar el siguiente mensaje de error:
- * “No se puede dividir por cero”.
+ * â€œNo se puede dividir por ceroâ€.
  */
 
 package ar.edu.ort.thp.tp1;
