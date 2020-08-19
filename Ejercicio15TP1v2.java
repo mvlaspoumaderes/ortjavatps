@@ -1,11 +1,11 @@
 /*Ejercicio 15, TP1
  *  Existen dos reglas que identifican dos conjuntos de valores:
- *  - El número es de un solo dígito.
- *  - El número es impar.
- *  A partir de estas reglas, creá un algoritmo que asigne a las variables booleanas estaEnA,
- *  estaEnB, estaEnAmbos y noEstaEnNinguno el valor verdadero o falso, según corresponda,
+ *  - El nÃºmero es de un solo dÃ­gito.
+ *  - El nÃºmero es impar.
+ *  A partir de estas reglas, creÃ¡ un algoritmo que asigne a las variables booleanas estaEnA,
+ *  estaEnB, estaEnAmbos y noEstaEnNinguno el valor verdadero o falso, segÃºn corresponda,
  *  para indicar si el valor ingresado pertenece al primer conjunto, al segundo, a ambos o a
- *  ninguno, respectivamente. Definí un lote de prueba de varios números y probá el algoritmo,
+ *  ninguno, respectivamente. DefinÃ­ un lote de prueba de varios nÃºmeros y probÃ¡ el algoritmo,
  *  escribiendo los resultados.
  *  
  *  Ejemplo usando ingreso de datos por teclado.
