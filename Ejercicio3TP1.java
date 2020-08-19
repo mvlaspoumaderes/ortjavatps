@@ -1,5 +1,5 @@
 /*Ejercicio 3, TP1
- * Realiz· un programa que muestre por pantalla un mensaje pidiÈndole al usuario que
+ * Realiz√° un programa que muestre por pantalla un mensaje pidi√©ndole al usuario que
  * ingrese su nombre, y luego muestre un mensaje de bienvenida incluyendo el mismo.
  */
 
