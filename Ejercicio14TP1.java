@@ -1,9 +1,9 @@
 /*Ejercicio 14, TP1
  * Construir un programa que simule el funcionamiento de una calculadora que puede
- * realizar las cuatro operaciones aritmÈticas b·sicas (suma, resta, producto y divisiÛn) con valores numÈricos enteros.
- * En un principio, el usuario debe especificar la operaciÛn que desea realizar (s para la suma,
- * r para la resta, p para el producto y d para la divisiÛn) y luego, deber· ingresar dos n˙meros
- * enteros para asÌ realizar la operaciÛn. Informar el resultado por pantalla. 
+ * realizar las cuatro operaciones aritm√©ticas b√°sicas (suma, resta, producto y divisi√≥n) con valores num√©ricos enteros.
+ * En un principio, el usuario debe especificar la operaci√≥n que desea realizar (s para la suma,
+ * r para la resta, p para el producto y d para la divisi√≥n) y luego, deber√° ingresar dos n√∫meros
+ * enteros para as√≠ realizar la operaci√≥n. Informar el resultado por pantalla. 
  */
 
 package ar.edu.ort.thp.tp1;
@@ -16,7 +16,7 @@ public class Ejercicio14 {
 		// TP1E14
 		input = new Scanner(System.in);
 		System.out.println(
-				"Por favor indique la operaciÛn ingresando la letra correspondiente \n[s] para suma \n[r] para resta \n[p] para producto \n[d] para division");
+				"Por favor indique la operaci√≥n ingresando la letra correspondiente \n[s] para suma \n[r] para resta \n[p] para producto \n[d] para division");
 		char operacion = input.next().charAt(0);
 		System.out.println("Ingrese un numero entero.");
 		int primerNumero = input.nextInt();
@@ -48,7 +48,7 @@ public class Ejercicio14 {
 
 			int divisionTotal = primerNumero / segundoNumero;
 			System.out.println(
-					"La divisiÛn entre " + primerNumero + "/" + segundoNumero + " es = " + divisionTotal);
+					"La divisi√≥n entre " + primerNumero + "/" + segundoNumero + " es = " + divisionTotal);
 			break;
 		default:
 			System.out.println("Atencion: ha ingresado un valor erroneo.");
