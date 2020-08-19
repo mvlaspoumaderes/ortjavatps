@@ -1,8 +1,8 @@
 /*Ejercicio 11, TP1
- *  Realiz· un programa que resuelva el siguiente problema:
- *  Deber·s solicitar el ingreso de una fecha de compra (String en el siguiente formato:
+ *  Realiz√° un programa que resuelva el siguiente problema:
+ *  Deber√°s solicitar el ingreso de una fecha de compra (String en el siguiente formato:
  *  YYYYMMDD), un nombre de comprador, un nombre de producto y una cantidad y precio del
- *  producto comprado. Mostr· a modo de ticket, la informaciÛn ingresada y el monto a pagar.
+ *  producto comprado. Mostr√° a modo de ticket, la informaci√≥n ingresada y el monto a pagar.
  *  Modelo de Ticket:
  *  Fecha de Compra: YYYYMMDD
  *  Nombre del Comprador: xxxxx xxxxx
