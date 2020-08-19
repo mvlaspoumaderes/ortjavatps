@@ -1,7 +1,7 @@
 /*Ejercicio 6, TP1
- * Realiz· un programa que solicite al usuario el ingreso por teclado un valor entero mayor
+ * Realiz√° un programa que solicite al usuario el ingreso por teclado un valor entero mayor
  * que 0 en una variable llamada num1 y muestre un mensaje por pantalla indicando "el
- * n˙mero es par" o "el n˙mero es impar". Deber· utilizar el operador ìmÛduloî es el caracter %
+ * n√∫mero es par" o "el n√∫mero es impar". Deber√° utilizar el operador ‚Äúm√≥dulo‚Äù es el caracter %
  */
 
 package ar.edu.ort.thp.tp1;
@@ -13,7 +13,7 @@ public class Ejercicio6 {
 		// TP1EJ6
         input = new Scanner(System.in);
 
-        System.out.printf( "Introduzca un n˙mero entero mayor a 0(cero)" );
+        System.out.printf( "Introduzca un n√∫mero entero mayor a 0(cero)" );
         int num1 = input.nextInt();
 
         //La forma de saber si un numero es par o impar, es dividirlo por 2, si el resto es 0(cero) es PAR, sino IMPAR.
