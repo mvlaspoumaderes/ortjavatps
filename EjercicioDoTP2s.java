@@ -4,7 +4,7 @@ public class EjercicioDos {
 
 	public static void main(String[] args) {
 		// TP2EJ2
-		/*Realizar un programa que muestre los números del 1 al 100 utilizando la instrucción while*/
+		/*Realizar un programa que muestre los nÃºmeros del 1 al 100 utilizando la instrucciÃ³n while*/
 		
 		int contador;
 		contador = 0;
