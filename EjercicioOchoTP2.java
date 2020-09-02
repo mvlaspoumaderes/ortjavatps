@@ -1,7 +1,7 @@
-/*Escribí la función booleana esMultiplo(int num1, int num2) que recibirá dos enteros y devolverá
- * verdadero cuando el primero sea múltiplo de segundo (de lo contrario, devolverá falso). Para saber si
- * un número es múltiplo de otro utilizá el operador % (módulo), que devuelve el resto de la división. Probá
- * la función desde el main con los lotes de datos (5, 3) y (15, 3)*/
+/*EscribÃ­ la funciÃ³n booleana esMultiplo(int num1, int num2) que recibirÃ¡ dos enteros y devolverÃ¡
+ * verdadero cuando el primero sea mÃºltiplo de segundo (de lo contrario, devolverÃ¡ falso). Para saber si
+ * un nÃºmero es mÃºltiplo de otro utilizÃ¡ el operador % (mÃ³dulo), que devuelve el resto de la divisiÃ³n. ProbÃ¡
+ * la funciÃ³n desde el main con los lotes de datos (5, 3) y (15, 3)*/
 
 
 package ar.edu.ort.thp.tp2;
