@@ -1,11 +1,11 @@
-/*. Realizar un programa en el cual se pida al usuario el ingreso de dos números enteros num1 y num2,
-cuya relación de valores es que el primero es menor o igual al segundo y mostrar por pantalla la
-secuencia de números que existe entre ambos:
-a) Incluyéndolos;
-b) Excluyéndolos.
-Obs: Validar que el primer número sea menor o igual al segundo. Pedir el ingreso de ambos números
-las veces que sea necesario hasta que se cumpla dicha condición.
-¿Qué pasaría si esta validación no la realizáramos y el ingreso es incorrecto? */
+/*. Realizar un programa en el cual se pida al usuario el ingreso de dos nÃºmeros enteros num1 y num2,
+cuya relaciÃ³n de valores es que el primero es menor o igual al segundo y mostrar por pantalla la
+secuencia de nÃºmeros que existe entre ambos:
+a) IncluyÃ©ndolos;
+b) ExcluyÃ©ndolos.
+Obs: Validar que el primer nÃºmero sea menor o igual al segundo. Pedir el ingreso de ambos nÃºmeros
+las veces que sea necesario hasta que se cumpla dicha condiciÃ³n.
+Â¿QuÃ© pasarÃ­a si esta validaciÃ³n no la realizÃ¡ramos y el ingreso es incorrecto? */
 
 
 package ar.edu.ort.thp.tp2;
