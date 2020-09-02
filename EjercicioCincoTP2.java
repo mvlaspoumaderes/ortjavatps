@@ -1,5 +1,5 @@
-/*Realiz� un programa que lea una serie de n�meros ingresados por el usuario mientras que el
-promedio entre todos sea menor a 20. Informar la cantidad de valores le�dos.*/
+/*Realizá un programa que lea una serie de números ingresados por el usuario mientras que el
+promedio entre todos sea menor a 20. Informar la cantidad de valores leídos.*/
 
 package ar.edu.ort.thp.tp2;
 import java.util.Scanner;
@@ -22,7 +22,7 @@ public class EjercicioCinco {
 			promedio = validarPromedio(numeroPedido, contadorValores);
 		} while (promedio < 20);
 
-		System.out.println("Se leyeron " + contadorValores + " valores. El promedio superó 20: " + promedio);
+		System.out.println("Se leyeron " + contadorValores + " valores. El promedio superÃ³ 20: " + promedio);
 
 		input.close();
 
@@ -33,7 +33,7 @@ public class EjercicioCinco {
 	static int pedirNumero() {
 		int numero;
 
-		System.out.println("Ingrese el siguiente número: ");
+		System.out.println("Ingrese el siguiente nÃºmero: ");
 		numero = input.nextInt();
 
 		return numero;
