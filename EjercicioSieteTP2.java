@@ -1,7 +1,7 @@
-/*El ingreso a un sitio web se valida por nombre de usuario y contraseña. Realizar un programa que
-* impida que el usuario ingrese hasta poner los datos correctos. Si intenta más de 3 veces erróneamente,
-* se debe mostrar el mensaje “Se ha bloqueado su cuenta”, de lo contrario, mostrar “Ha ingresado
-* correctamente”.*/
+/*El ingreso a un sitio web se valida por nombre de usuario y contraseÃ±a. Realizar un programa que
+* impida que el usuario ingrese hasta poner los datos correctos. Si intenta mÃ¡s de 3 veces errÃ³neamente,
+* se debe mostrar el mensaje â€œSe ha bloqueado su cuentaâ€, de lo contrario, mostrar â€œHa ingresado
+* correctamenteâ€.*/
 
 package ar.edu.ort.thp.tp2;
 
@@ -22,7 +22,7 @@ public class EjercicioSiete {
 		do {
 			System.out.println("Ingrese su usuario: ");
 			user = input.nextLine();
-			System.out.println("Ingrese su contraseña: ");
+			System.out.println("Ingrese su contraseÃ±a: ");
 			password = input.nextLine();
 			contador++;
 			if (!USER.equals(user) || !PASSWORD.equals(password)) {
